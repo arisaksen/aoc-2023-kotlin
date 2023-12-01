@@ -1,4 +1,4 @@
-package Day01
+package day01
 
 import org.assertj.core.api.Assertions.assertThat
 import readInput
@@ -54,10 +54,11 @@ fun main() {
 
 
 // test if implementation meets criteria from the description, like:
-    val testInput = readInput("Day01_part2_test")
+    val dir = System.getProperty("sun.java.command").substringBefore('.')
+    val testInput = readInput("$dir/Part2_test")
     assertThat(part2(testInput)).isEqualTo(281)
 
 // print the puzzle answer
-    val puzzleInput = readInput("Day01_part2")
+    val puzzleInput = readInput("$dir/Part2")
     println(part2(puzzleInput))
 }
