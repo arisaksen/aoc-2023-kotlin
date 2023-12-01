@@ -10,11 +10,10 @@ fun main() {
 
 
 // test if implementation meets criteria from the description, like:
-    val dir = System.getProperty("sun.java.command").substringBefore('.')
-    val testInput = readInput("$dir/Part2_test")
+    val testInput = readInput("Part2_test")
     assertThat(part2(testInput)).isEqualTo(1)
 
 // print the puzzle answer
-    val puzzleInput = readInput("$dir/Part2")
+    val puzzleInput = readInput("Part2")
     println(part2(puzzleInput))
 }
