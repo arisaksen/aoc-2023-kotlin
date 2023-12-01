@@ -1,5 +1,9 @@
 # aoc-2023-kotlin
 
+[![Day 1](https://img.shields.io/badge/Day--1-solved-green)](https://github.com/arisaksen/aoc-2023-kotlin/blob/main/src/Day01/Day01.kt)
+
+##
+
 Welcome to the Advent of Code[^aoc] Kotlin project created by [arisaksen][github] using the [Advent of Code Kotlin Template][template] delivered by JetBrains.
 
 In this repository, arisaksen is about to provide solutions for the puzzles using [Kotlin][kotlin] language.
