@@ -1,6 +1,7 @@
 # aoc-2023-kotlin
 
-[![Day 1](https://img.shields.io/badge/Day--1-solved-green)](https://github.com/arisaksen/aoc-2023-kotlin/blob/main/src/Day01/Day01.kt)
+[![Day 1](https://img.shields.io/badge/Day--1-solved-green)](https://adventofcode.com/2023/day/1)
+[![Day 2](https://img.shields.io/badge/Day--2-solved-green)](https://adventofcode.com/2023/day/2)
 
 ##
 
