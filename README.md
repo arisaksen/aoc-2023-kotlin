@@ -2,6 +2,7 @@
 
 [![Day 1](https://img.shields.io/badge/Day--1-solved-green)](https://adventofcode.com/2023/day/1)
 [![Day 2](https://img.shields.io/badge/Day--2-solved-green)](https://adventofcode.com/2023/day/2)
+[![Day 3](https://img.shields.io/badge/Day--3-solved-green)](https://adventofcode.com/2023/day/3)
 
 ##
 
