@@ -54,6 +54,19 @@ humidity-to-location map:
         it.key to it.value.split('\n').filterNot { it.isBlank() }.map { it.split(" ").map { it.toLong() } }
     }
 
+    @Test
+    fun test123() {
+        var mutableList = mutableListOf(0, 1, 0, 3, 12)
+//        mutableList.forEachIndexed { index, i ->
+//           if(i == 0){
+               mutableList.removeIf { it == 0 }
+//               mutableList.add(i)
+//           }
+//        }
+
+
+        println(mutableList)
+    }
 
     @Test
     fun locationNumber() {
